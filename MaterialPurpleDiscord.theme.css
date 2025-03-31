@@ -1,7 +1,7 @@
 /**
-* @name Material Purple Discord
-* @author oxmc7769 and crvmblr
-* @version 6
+* @name MaterialDiscord Purple
+* @author crvmblr
+* @version 7
 * @description A theme based on the Material You design. Original by CapnKitten on GitHub.
 */
 
@@ -7518,7 +7518,7 @@ div[role=radiogroup].group__344e6 {
 .compact_c19a55 + .divider__5126c:not(.beforeGroup__5126c) {
   top: -11px;
 }
-+ .compact_c19a55:not(.message__5126c) {
+ .compact_c19a55:not(.message__5126c) {
   margin: 16px 20px 0 70px;
 }
 
@@ -10483,23 +10483,23 @@ body:active .root__49fc1 .container_d9c882:not(:active) {
   border-color: var(--main-color);
 }
 
-.card__6faf3 {
+.card_c59071 {
   background-color: var(--card-color-filled);
   border: none;
   padding: 0;
   border-radius: var(--card-radius-big);
   transition: var(--default-time) var(--default-animation) background-color;
 }
-.card__6faf3:hover {
+.card_c59071:hover {
   background-color: var(--card-color-hover);
 }
-.card__6faf3:hover .iconMask__6faf3 {
+.card_c59071:hover .iconMask_c59071 {
   background-color: var(--card-color-hover);
 }
-.card__6faf3 .splashImage__6faf3 {
+.card_c59071 .splashImage_c59071 {
   border-radius: var(--card-radius-big);
 }
-.card__6faf3 .iconMask__6faf3 {
+.card_c59071 .iconMask_c59071 {
   background-color: var(--card-color-filled);
   transition: var(--default-time) var(--default-animation) background-color;
 }
@@ -13592,18 +13592,18 @@ body:active .container__55c99:not(:active) {
   --scrollbar-width: 0;
 }
 
-.soundButton__6d4ed {
+.soundButton__9be63 {
   background-color: var(--card-button-color);
   border-radius: 20px;
   transition: var(--default-time) var(--default-animation) background-color;
 }
-.soundButton__6d4ed.hoverActiveBackground__6d4ed:hover {
+.soundButton__9be63.hoverActiveBackground__9be63:hover {
   background-color: var(--card-button-color-hover);
 }
-.soundButton__6d4ed .buttonOverlayBackground__6d4ed {
+.soundButton__9be63 .buttonOverlayBackground__9be63 {
   background-color: var(--card-button-color);
 }
-.soundButton__6d4ed.soundAddButton__896b6:hover {
+.soundButton__9be63.soundAddButton__896b6:hover {
   background-color: var(--card-button-color-hover);
 }
 
@@ -16038,7 +16038,7 @@ body:active .container_d9c882:not(:active) {
   border: none;
 }
 
-.basicThemeSelectors_fbfab6 + .premiumFeatureBorder__65c15 {
+.basicThemeSelectors_fbfab6fbfab6 + .premiumFeatureBorder__65c15 {
   margin: 0 -8px -8px;
   background: linear-gradient(var(--card-color-filled), var(--card-color-filled)) padding-box, linear-gradient(45deg, hsl(269, calc(var(--saturation-factor, 1) * 52.7%), 52.7%), hsl(325, calc(var(--saturation-factor, 1) * 31.7%), 51.8%)) border-box;
   border-radius: calc(var(--card-radius-big) - 4px);
@@ -16048,10 +16048,10 @@ body:active .container_d9c882:not(:active) {
   gap: 8px;
 }
 
-.basicThemeSelectors_fbfab6 {
+.basicThemeSelectors_fbfab6fbfab6 {
   margin-bottom: 0;
 }
-.basicThemeSelectors_fbfab6 .themeSelectionContainer__36dee {
+.basicThemeSelectors_fbfab6fbfab6 .themeSelectionContainer__36dee {
   width: 84px;
   height: 84px;
   padding: 12px;
@@ -18263,7 +18263,7 @@ div[class="content_a2f514"]>* {
     display: none;
 }
 
-/* Theme Creator Badge */
+/* Theme Creator username glow */
 .repliedMessage_c19a55:has([src*="1113581633711390720"]) .username_c19a55,
 .member__5d473:has([src*="1113581633711390720"]) .username_d272d6,
 .contents_c19a55:has([src*="1113581633711390720"]) .username_c19a55,
